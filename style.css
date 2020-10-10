@@ -1,1 +1,4 @@
-stuff here
+.main-box{
+    display: flex;
+    flex-wrap: wrap;
+}
